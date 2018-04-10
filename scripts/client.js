@@ -27,3 +27,11 @@ M.Autocomplete.init(ac, {
     "Venice": null,
   }
 });
+
+// Material Boxed
+const mb = document.querySelectorAll('.materialboxed');
+M.Materialbox.init(mb, {});
+
+// Scrollspy
+const ss = document.querySelectorAll('.scrollspy');
+M.Scrollspy.init(ss, {});
