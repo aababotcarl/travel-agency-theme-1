@@ -1,4 +1,4 @@
-![Travel Agency Theme](travel-agency-theme-view.png)
+![Travel Agency Theme](travel-agency-theme-view2.png)
 
 ## Travel Agency Theme
 
